@@ -1,2 +1,6 @@
 Hello World!
+<<<<<<< HEAD
 I love you, Shinobu Nakayama
+=======
+I love you, Mitsuko Yamada
+>>>>>>> 64089b8 (Them noi dung yeu Mitsuko vao file a.txt)
